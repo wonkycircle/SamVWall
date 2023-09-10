@@ -1,0 +1,1 @@
+room_goto(SR_start);

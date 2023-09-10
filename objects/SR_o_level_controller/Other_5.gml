@@ -1,0 +1,1 @@
+starstotal = (starstotal + stars);
